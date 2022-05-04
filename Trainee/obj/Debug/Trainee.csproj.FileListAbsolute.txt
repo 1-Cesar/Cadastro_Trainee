@@ -1,0 +1,11 @@
+C:\Users\cesar\source\repos\Trainee\Trainee\bin\Debug\Trainee.exe.config
+C:\Users\cesar\source\repos\Trainee\Trainee\bin\Debug\Trainee.exe
+C:\Users\cesar\source\repos\Trainee\Trainee\bin\Debug\Trainee.pdb
+C:\Users\cesar\source\repos\Trainee\Trainee\obj\Debug\Trainee.csproj.AssemblyReference.cache
+C:\Users\cesar\source\repos\Trainee\Trainee\obj\Debug\Trainee.csproj.SuggestedBindingRedirects.cache
+C:\Users\cesar\source\repos\Trainee\Trainee\obj\Debug\Trainee.Form1.resources
+C:\Users\cesar\source\repos\Trainee\Trainee\obj\Debug\Trainee.Properties.Resources.resources
+C:\Users\cesar\source\repos\Trainee\Trainee\obj\Debug\Trainee.csproj.GenerateResource.cache
+C:\Users\cesar\source\repos\Trainee\Trainee\obj\Debug\Trainee.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\Trainee\Trainee\obj\Debug\Trainee.exe
+C:\Users\cesar\source\repos\Trainee\Trainee\obj\Debug\Trainee.pdb
